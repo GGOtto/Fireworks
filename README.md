@@ -1,0 +1,2 @@
+# Fireworks
+Just for fun
